@@ -92094,7 +92094,7 @@ exports[`shapshots media theme should match cssVars snapshot 1`] = `
     },
     "large": {
       "name": "--vkui--grid_aside_content--large",
-      "value": "var(--vkui--grid_aside_content--large, 300px)",
+      "value": "var(--vkui--grid_aside_content--large, 380px)",
     },
     "regular": {
       "name": "--vkui--grid_aside_content--regular",
@@ -95996,7 +95996,7 @@ exports[`shapshots media theme should match pixelify theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": "300px",
     "compactX": "300px",
-    "large": "300px",
+    "large": "380px",
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -97859,7 +97859,7 @@ exports[`shapshots media theme should match pseudo theme from CssVars 1`] = `
   "gridAsideContent": {
     "compact": "var(--vkui--grid_aside_content--compact, 300px)",
     "compactX": "var(--vkui--grid_aside_content--compact_x, 300px)",
-    "large": "var(--vkui--grid_aside_content--large, 300px)",
+    "large": "var(--vkui--grid_aside_content--large, 380px)",
     "regular": "var(--vkui--grid_aside_content--regular, 100%)",
   },
   "gridColumnX2": {
@@ -99722,7 +99722,7 @@ exports[`shapshots media theme should match root theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": 300,
     "compactX": 300,
-    "large": 300,
+    "large": 380,
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -104041,7 +104041,7 @@ exports[`shapshots mediaDark theme should match cssVars snapshot 1`] = `
     },
     "large": {
       "name": "--vkui--grid_aside_content--large",
-      "value": "var(--vkui--grid_aside_content--large, 300px)",
+      "value": "var(--vkui--grid_aside_content--large, 380px)",
     },
     "regular": {
       "name": "--vkui--grid_aside_content--regular",
@@ -107943,7 +107943,7 @@ exports[`shapshots mediaDark theme should match pixelify theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": "300px",
     "compactX": "300px",
-    "large": "300px",
+    "large": "380px",
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -109806,7 +109806,7 @@ exports[`shapshots mediaDark theme should match pseudo theme from CssVars 1`] = 
   "gridAsideContent": {
     "compact": "var(--vkui--grid_aside_content--compact, 300px)",
     "compactX": "var(--vkui--grid_aside_content--compact_x, 300px)",
-    "large": "var(--vkui--grid_aside_content--large, 300px)",
+    "large": "var(--vkui--grid_aside_content--large, 380px)",
     "regular": "var(--vkui--grid_aside_content--regular, 100%)",
   },
   "gridColumnX2": {
@@ -111669,7 +111669,7 @@ exports[`shapshots mediaDark theme should match root theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": 300,
     "compactX": 300,
-    "large": 300,
+    "large": 380,
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -116006,7 +116006,7 @@ exports[`shapshots mycom theme should match cssVars snapshot 1`] = `
     },
     "large": {
       "name": "--vkui--grid_aside_content--large",
-      "value": "var(--vkui--grid_aside_content--large, 300px)",
+      "value": "var(--vkui--grid_aside_content--large, 380px)",
     },
     "regular": {
       "name": "--vkui--grid_aside_content--regular",
@@ -119902,7 +119902,7 @@ exports[`shapshots mycom theme should match pixelify theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": "300px",
     "compactX": "300px",
-    "large": "300px",
+    "large": "380px",
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -121768,7 +121768,7 @@ exports[`shapshots mycom theme should match pseudo theme from CssVars 1`] = `
   "gridAsideContent": {
     "compact": "var(--vkui--grid_aside_content--compact, 300px)",
     "compactX": "var(--vkui--grid_aside_content--compact_x, 300px)",
-    "large": "var(--vkui--grid_aside_content--large, 300px)",
+    "large": "var(--vkui--grid_aside_content--large, 380px)",
     "regular": "var(--vkui--grid_aside_content--regular, 100%)",
   },
   "gridColumnX2": {
@@ -123634,7 +123634,7 @@ exports[`shapshots mycom theme should match root theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": 300,
     "compactX": 300,
-    "large": 300,
+    "large": 380,
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -272699,7 +272699,7 @@ exports[`shapshots pharma theme should match cssVars snapshot 1`] = `
     },
     "large": {
       "name": "--vkui--grid_aside_content--large",
-      "value": "var(--vkui--grid_aside_content--large, 300px)",
+      "value": "var(--vkui--grid_aside_content--large, 380px)",
     },
     "regular": {
       "name": "--vkui--grid_aside_content--regular",
@@ -276606,7 +276606,7 @@ exports[`shapshots pharma theme should match pixelify theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": "300px",
     "compactX": "300px",
-    "large": "300px",
+    "large": "380px",
     "regular": "100%",
   },
   "gridColumnX2": {
@@ -278474,7 +278474,7 @@ exports[`shapshots pharma theme should match pseudo theme from CssVars 1`] = `
   "gridAsideContent": {
     "compact": "var(--vkui--grid_aside_content--compact, 300px)",
     "compactX": "var(--vkui--grid_aside_content--compact_x, 300px)",
-    "large": "var(--vkui--grid_aside_content--large, 300px)",
+    "large": "var(--vkui--grid_aside_content--large, 380px)",
     "regular": "var(--vkui--grid_aside_content--regular, 100%)",
   },
   "gridColumnX2": {
@@ -280342,7 +280342,7 @@ exports[`shapshots pharma theme should match root theme snapshot 1`] = `
   "gridAsideContent": {
     "compact": 300,
     "compactX": 300,
-    "large": 300,
+    "large": 380,
     "regular": "100%",
   },
   "gridColumnX2": {
