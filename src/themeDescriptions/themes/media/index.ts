@@ -747,8 +747,6 @@ export const mediaTheme: ThemeMediaDescription = {
 	sizeBadgeXL: {
 		regular: 56,
 	},
-
-	elevation3: '0px 16px 48px 0px rgba(0, 16, 61, 0.28)',
 };
 
 export const mediaDarkTheme: ThemeMediaDescription = {
@@ -759,5 +757,4 @@ export const mediaDarkTheme: ThemeMediaDescription = {
 		...mediaTheme.colors,
 		...darkTheme.colors,
 	},
-	elevation3: '0px 16px 48px 0px rgba(0, 0, 0, 0.40)',
 };

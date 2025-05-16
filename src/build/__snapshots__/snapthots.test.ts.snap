@@ -123695,7 +123695,7 @@ exports[`shapshots media theme should match cssVars snapshot 1`] = `
   },
   "elevation3": {
     "name": "--vkui--elevation3",
-    "value": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 16, 61, 0.28))",
+    "value": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   },
   "elevation4": {
     "name": "--vkui--elevation4",
@@ -128708,7 +128708,7 @@ exports[`shapshots media theme should match pixelify theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 16, 61, 0.28)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -130614,7 +130614,7 @@ exports[`shapshots media theme should match pseudo theme from CssVars 1`] = `
   "elevation1": "var(--vkui--elevation1, 0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation1InvertY": "var(--vkui--elevation1_invert_y, 0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation2": "var(--vkui--elevation2, 0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06))",
-  "elevation3": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 16, 61, 0.28))",
+  "elevation3": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   "elevation4": "var(--vkui--elevation4, 0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16))",
   "fontCaption1": {
     "regular": {
@@ -132520,7 +132520,7 @@ exports[`shapshots media theme should match root theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 16, 61, 0.28)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -135925,7 +135925,7 @@ exports[`shapshots mediaDark theme should match cssVars snapshot 1`] = `
   },
   "elevation3": {
     "name": "--vkui--elevation3",
-    "value": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 0, 0, 0.40))",
+    "value": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   },
   "elevation4": {
     "name": "--vkui--elevation4",
@@ -140938,7 +140938,7 @@ exports[`shapshots mediaDark theme should match pixelify theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 0, 0, 0.40)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -142844,7 +142844,7 @@ exports[`shapshots mediaDark theme should match pseudo theme from CssVars 1`] = 
   "elevation1": "var(--vkui--elevation1, 0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation1InvertY": "var(--vkui--elevation1_invert_y, 0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation2": "var(--vkui--elevation2, 0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06))",
-  "elevation3": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 0, 0, 0.40))",
+  "elevation3": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   "elevation4": "var(--vkui--elevation4, 0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16))",
   "fontCaption1": {
     "regular": {
@@ -144750,7 +144750,7 @@ exports[`shapshots mediaDark theme should match root theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 0, 0, 0.40)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -148169,7 +148169,7 @@ exports[`shapshots mycom theme should match cssVars snapshot 1`] = `
   },
   "elevation3": {
     "name": "--vkui--elevation3",
-    "value": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 16, 61, 0.28))",
+    "value": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   },
   "elevation4": {
     "name": "--vkui--elevation4",
@@ -153179,7 +153179,7 @@ exports[`shapshots mycom theme should match pixelify theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 16, 61, 0.28)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -155088,7 +155088,7 @@ exports[`shapshots mycom theme should match pseudo theme from CssVars 1`] = `
   "elevation1": "var(--vkui--elevation1, 0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation1InvertY": "var(--vkui--elevation1_invert_y, 0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation2": "var(--vkui--elevation2, 0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06))",
-  "elevation3": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 16, 61, 0.28))",
+  "elevation3": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   "elevation4": "var(--vkui--elevation4, 0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16))",
   "fontCaption1": {
     "regular": {
@@ -156997,7 +156997,7 @@ exports[`shapshots mycom theme should match root theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 16, 61, 0.28)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -306609,7 +306609,7 @@ exports[`shapshots pharma theme should match cssVars snapshot 1`] = `
   },
   "elevation3": {
     "name": "--vkui--elevation3",
-    "value": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 16, 61, 0.28))",
+    "value": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   },
   "elevation4": {
     "name": "--vkui--elevation4",
@@ -311627,7 +311627,7 @@ exports[`shapshots pharma theme should match pixelify theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 16, 61, 0.28)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
@@ -313538,7 +313538,7 @@ exports[`shapshots pharma theme should match pseudo theme from CssVars 1`] = `
   "elevation1": "var(--vkui--elevation1, 0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation1InvertY": "var(--vkui--elevation1_invert_y, 0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08))",
   "elevation2": "var(--vkui--elevation2, 0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06))",
-  "elevation3": "var(--vkui--elevation3, 0px 16px 48px 0px rgba(0, 16, 61, 0.28))",
+  "elevation3": "var(--vkui--elevation3, 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08))",
   "elevation4": "var(--vkui--elevation4, 0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16))",
   "fontCaption1": {
     "regular": {
@@ -315449,7 +315449,7 @@ exports[`shapshots pharma theme should match root theme snapshot 1`] = `
   "elevation1": "0 2px 6px 0 rgba(0, 16, 61, 0.08), 0 1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation1InvertY": "0 -2px 6px 0 rgba(0, 16, 61, 0.08), 0 -1px 2px 0 rgba(0, 16, 61, 0.08)",
   "elevation2": "0 0 2px 0 rgba(0, 16, 61, 0.06), 0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06)",
-  "elevation3": "0px 16px 48px 0px rgba(0, 16, 61, 0.28)",
+  "elevation3": "0 0 6px 0 rgba(0, 16, 61, 0.06), 0 6px 12px 0 rgba(0, 16, 61, 0.06), 0 6px 20px 0 rgba(0, 16, 61, 0.06), 0 10px 36px 0 rgba(0, 16, 61, 0.08)",
   "elevation4": "0 2px 6px 0 rgba(0, 16, 61, 0.06), 0 16px 48px 0 rgba(0, 16, 61, 0.08), 0 24px 68px 0 rgba(0, 16, 61, 0.16)",
   "fontCaption1": {
     "regular": {
